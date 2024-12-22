@@ -1,7 +1,7 @@
 # Alexander-Dvoynin#
 Who Am I?
 
- Name: "Alexander Dvoynin"
+ <p>Name: "Alexander Dvoynin"</p>
  Role: "Cybersecurity Enthusiast & Ethical Hacker"
 
 
@@ -36,8 +36,8 @@ Who Am I?
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderDvoy&show_icons=true&theme=radical)
 
-<p>## Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderDvoy&layout=compact&theme=radical)</p>
+## Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderDvoy&layout=compact&theme=radical)
 <p> 🌐 Let's Connect:www.linkedin.com/in/alexander-dvoynin</p>
 
 
