@@ -10,7 +10,7 @@
 </p>
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexander-dvoynin&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderDvoy&show_icons=true&theme=radical)
 
 ## Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-dvoynin&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderDvoy&layout=compact&theme=radical)
