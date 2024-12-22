@@ -33,10 +33,10 @@ Who Am I?
   <img src="https://img.shields.io/badge/-Priority-blue?logoColor=white" alt="Priority" />
 </p>
 
-## Stats🧑‍💻
+## Stats📈
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderDvoy&show_icons=true&theme=radical)
 
-## Languages
+## Languages🧑‍💻
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderDvoy&layout=compact&theme=radical)
 <p> 🌐 Let's Connect:www.linkedin.com/in/alexander-dvoynin</p>
 
