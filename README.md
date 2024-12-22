@@ -6,7 +6,7 @@ Who Am I?
 
 
 
- Hey there! I'm Alexander, a passionate Cybersecurity Enthusiast and Ethical Hacker, exploring the depths of digital defense and offensive security. My journey revolves around safeguarding systems, uncovering vulnerabilities, and building resilient architectures.
+ 🔧Hey there! I'm Alexander, a passionate Cybersecurity Enthusiast and Ethical Hacker, exploring the depths of digital defense and offensive security. My journey revolves around safeguarding systems, uncovering vulnerabilities, and building resilient architectures.
 
 # 🛠 Tech Arsenal:
 <p align="left">
@@ -33,7 +33,7 @@ Who Am I?
   <img src="https://img.shields.io/badge/-Priority-blue?logoColor=white" alt="Priority" />
 </p>
 
-## Stats
+## Stats🧑‍💻
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderDvoy&show_icons=true&theme=radical)
 
 ## Languages
