@@ -1,15 +1,14 @@
 # Alexander-Dvoynin#
 Who Am I?
 
-Name: "Alexander Dvoynin"
-Role: "Cybersecurity Enthusiast & Ethical Hacker"
+# Name: "Alexander Dvoynin"
+# Role: "Cybersecurity Enthusiast & Ethical Hacker"
 
 
 
-Hey there! I'm Alexander, a passionate Cybersecurity Enthusiast and Ethical Hacker, exploring the depths of digital defense and offensive security. My journey revolves around safeguarding systems, uncovering vulnerabilities, and building resilient architectures.
+# Hey there! I'm Alexander, a passionate Cybersecurity Enthusiast and Ethical Hacker, exploring the depths of digital defense and offensive security. My journey revolves around safeguarding systems, uncovering vulnerabilities, and building resilient architectures.
 
-🛠 Tech Arsenal:
-## Skills
+# 🛠 Tech Arsenal:
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
