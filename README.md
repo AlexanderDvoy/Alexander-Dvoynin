@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?logo=windows&logoColor=white" alt="Active Directory" />
   <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-John%20the%20Ripper-orange?logoColor=white" alt="John the Ripper" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/-Nmap-3776AB?logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/-Mimikatz-yellow?logoColor=black" alt="Mimikatz" />
 </p>
 
 ## Stats
