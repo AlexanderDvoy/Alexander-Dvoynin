@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/-Nmap-3776AB?logo=nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/-Mimikatz-yellow?logoColor=black" alt="Mimikatz" />
    <img src="https://img.shields.io/badge/-Networking-0078D4?logo=network&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
+  <img src="https://img.shields.io/badge/-Priority-blue?logoColor=white" alt="Priority" />
 </p>
 
 ## Stats
