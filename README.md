@@ -36,9 +36,9 @@ Who Am I?
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderDvoy&show_icons=true&theme=radical)
 
-## Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderDvoy&layout=compact&theme=radical)
-🌐 Let's Connect:www.linkedin.com/in/alexander-dvoynin
+<p>## Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderDvoy&layout=compact&theme=radical)</p>
+<p> 🌐 Let's Connect:www.linkedin.com/in/alexander-dvoynin</p>
 
 
 
