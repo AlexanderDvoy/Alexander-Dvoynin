@@ -1,0 +1,19 @@
+def calculate_tips_and_share():
+    participants = int(input("Enter the number of participants: "))
+
+    # Dictionary to store participant names and their meal costs
+    participant_data = {}
+
+    for _ in range(participants):
+        name = input("Enter the participant's name: ")
+        meal_cost = float(input(f"Enter the meal cost for {name}: "))
+        participant_data[name] = meal_cost
+
+    print("\nBill Breakdown:")
+    for name, meal_cost in participant_data.items():
+        tip = meal_cost * 0.1  # Calculate 10% tip
+        total_cost = meal_cost + tip
+        print(f"{name}: Meal Cost = ${meal_cost:.2f}, Tip = ${tip:.2f}, Total = ${total_cost:.2f}")
+
+if __name__ == "__main__":
+    calculate_tips_and_share()
